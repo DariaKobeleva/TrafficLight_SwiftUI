@@ -4,7 +4,7 @@
 "Traffic Light" is an iOS application that simulates a real traffic light. 
 
 ## Demo
-<img src="https://github.com/user-attachments/assets/a14e6231-945c-4ba8-b7c0-7d88b4541041" width="200"/>
+<img src="https://github.com/user-attachments/assets/a66fd112-1499-4d25-94e9-1a4ecf097ddc" width="200"/>
 
 ## What I Learned:
 
